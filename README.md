@@ -1,7 +1,7 @@
 # discordCaptcha
 Straightforward discord captcha system.
 
-When a user joins, they will be DM'd a message containing a captcha. Failure to solve to solve the captcha correctly or within the timeout period will result in the user being kicked.
+When a user joins, they will be DM'd a message containing a captcha. Failure to solve the captcha correctly or within the timeout period will result in the user being kicked.
 The bot requires kick, view channels, send messages, and read message permissions. For simplicity's sake, I would recommend just giving it administrator.
 
 * Default prefix: <
